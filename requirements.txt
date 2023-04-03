@@ -1,0 +1,10 @@
+openai
+pandas
+MeCab-python3
+beautifulsoup4
+scikit-learn
+datasets
+transformers
+torch
+fugashi
+ipadic
